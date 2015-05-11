@@ -18,7 +18,14 @@ namespace FFPlan.Controllers
         // GET api/values/5
         public string Get(int id)
         {
-            return "value";
+            if (id > 100)
+            {
+                return "id >= 100";
+            }
+            else
+            {
+                return "id <= 100";
+            }
         }
 
         // POST api/values
