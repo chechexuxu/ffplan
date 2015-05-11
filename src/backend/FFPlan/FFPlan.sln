@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFPlan", "FFPlan\FFPlan.csproj", "{1ABB8CBD-7970-4F8E-9722-D76F73A38328}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FFPlan.Tests", "FFPlan.Tests\FFPlan.Tests.csproj", "{AF057DF4-BB70-43B9-B408-6904551EB146}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1ABB8CBD-7970-4F8E-9722-D76F73A38328}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1ABB8CBD-7970-4F8E-9722-D76F73A38328}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1ABB8CBD-7970-4F8E-9722-D76F73A38328}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1ABB8CBD-7970-4F8E-9722-D76F73A38328}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF057DF4-BB70-43B9-B408-6904551EB146}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF057DF4-BB70-43B9-B408-6904551EB146}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF057DF4-BB70-43B9-B408-6904551EB146}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF057DF4-BB70-43B9-B408-6904551EB146}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
